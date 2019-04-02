@@ -189,9 +189,9 @@ input[type=submit]:active
 }
 
 .btn-full:hover,
-.btn-full:active,
+.btn-full:active
 {
-  background-color:#ac5b19;
+  background-color: #ac5b19;
 }
 
 .btn-ghost:hover,
